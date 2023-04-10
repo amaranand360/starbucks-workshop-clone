@@ -6,7 +6,7 @@ This is a clone of the official Starbucks website created using HTML, CSS. The a
 
 # 🚀LIVE DEMO 
 - To get started with this project, you can simply clone this repository and open the index.html file in your web browser.
-- Alternatively, you can view the live version of the website:  https://anandraj-coffee-company.netlify.app/
+- Alternatively, you can view the live version of the website:  https://tribe23.tech/
 
 # 💻 Technologies Used
 - HTML
